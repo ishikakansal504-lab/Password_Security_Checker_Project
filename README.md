@@ -1,3 +1,4 @@
+#PASSWORD SECURITY CHECKER PROJECT
 Password Strength Analyzer (Python): A console-based Password Strength Analyzer built in Python that evaluates the strength of user passwords based on multiple security parameters. It helps users create stronger passwords by providing real-time feedback, scoring, and entropy estimation.
 
 Features
